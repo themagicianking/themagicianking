@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @themagicianking
-- 👀 I’m interested in ...all sorts of TTRPGs, Critical Role, The Magicians books, NaNoWriMo, dog training, swing dance, professional mermaids, and all sorts of other stuff :)
+- 👋  Hi, I’m @themagicianking
+- 👀  I’m interested in ...all sorts of TTRPGs, Critical Role, The Magicians books, NaNoWriMo, dog training, swing dance, professional mermaids, and all sorts of other stuff :) Right now I'm very interested in teaching myself full stack web development.
 - 🌱 I’m currently learning ...how to learn! I am reteaching myself JavaScript and learning how to put it together with the html and CSS skills I already know. I am also learning how to communicate to other people about my code.
 - 💞️ I’m looking to collaborate on ...I'm not sure yet ^.^
 - 📫 How to reach me ...I'm @trenzalure#0535 on Discord :)
