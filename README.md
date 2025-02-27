@@ -22,4 +22,4 @@
 <p align="center"><a target="_blank" href="https://dev.to/salamoonder" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/thanewilson" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a></p>
 <h2 align="center"> GitHub Stats</h2>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=themagicianking&show_icons=true&locale=en" alt="themagicianking" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=themagicianking&show_icons=true&theme=radical" alt="my Github Stats"/></div>
